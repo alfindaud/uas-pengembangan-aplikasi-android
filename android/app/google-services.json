@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998374499907",
+    "project_id": "uas-flutter-e717f",
+    "storage_bucket": "uas-flutter-e717f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998374499907:android:b3e808a728b554dde056f6",
+        "android_client_info": {
+          "package_name": "com.example.training_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998374499907-h4vuvthkghba808rvfl2snrecpvir569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfZORaR28oX6H1q7dYIu3zRCcZVe9Gm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998374499907-h4vuvthkghba808rvfl2snrecpvir569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
