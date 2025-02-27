@@ -30,9 +30,8 @@ class ChatPage extends StatefulWidget {
 
 class _ChatPageState extends State<ChatPage> {
   final model = GenerativeModel(
-      model: 'gemini-pro',
-      apiKey:
-          'AIzaSyCemWq4HMckBt9903Ug6bunb2AQ7kJ0gC8'); // Ganti dengan API key Anda
+      model: 'gemini-2.0-flash',
+      apiKey: 'AIzaSyAise3aStNtRbOuwYvvyuZ_7rvpCfhaIzw');
   final messageController = TextEditingController();
   bool isLoading = false;
   bool isDarkMode = false;
